@@ -1,0 +1,20 @@
+{
+  "model": "wdb/deepseek-ai/DeepSeek-V4-Flash-0731",
+  "elapsed_s": 0.0,
+  "subagent_calls": 3,
+  "tool_calls": {
+    "task": 3
+  },
+  "tokens": {
+    "input": 0,
+    "output": 0
+  },
+  "topic": "survey about video and multimodal generation",
+  "n_sources": 9,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "hf-search",
+    "web"
+  ]
+}

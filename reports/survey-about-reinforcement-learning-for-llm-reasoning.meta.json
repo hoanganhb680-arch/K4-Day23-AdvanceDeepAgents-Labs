@@ -1,0 +1,26 @@
+{
+  "model": "wdb/deepseek-ai/DeepSeek-V4-Flash-0731",
+  "elapsed_s": 2076.8,
+  "subagent_calls": 6,
+  "tool_calls": {
+    "write_todos": 5,
+    "ls": 4,
+    "read_file": 13,
+    "grep": 2,
+    "execute": 29,
+    "task": 6,
+    "write_file": 2,
+    "edit_file": 1
+  },
+  "tokens": {
+    "input": 1509486,
+    "output": 35431
+  },
+  "topic": "survey about reinforcement learning for LLM reasoning",
+  "n_sources": 66,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

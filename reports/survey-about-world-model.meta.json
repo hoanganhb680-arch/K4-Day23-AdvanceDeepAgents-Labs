@@ -1,0 +1,26 @@
+{
+  "model": "wdb/deepseek-ai/DeepSeek-V4-Flash-0731",
+  "elapsed_s": 1561.0,
+  "subagent_calls": 6,
+  "tool_calls": {
+    "write_todos": 7,
+    "ls": 4,
+    "read_file": 14,
+    "execute": 17,
+    "task": 6,
+    "write_file": 5,
+    "grep": 3,
+    "edit_file": 12
+  },
+  "tokens": {
+    "input": 1852936,
+    "output": 45350
+  },
+  "topic": "survey about world model",
+  "n_sources": 55,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

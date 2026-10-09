@@ -1,0 +1,74 @@
+[
+  {
+    "n": 1,
+    "id": "2404.14294",
+    "url": "https://arxiv.org/abs/2404.14294",
+    "title": "A Survey on Efficient Inference for Large Language Models",
+    "date": "2024-04-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "-",
+    "url": "https://aclanthology.org/2025.ranlp-1.93.pdf",
+    "title": "A Survey on Small Language Models",
+    "date": "2025",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2207.01405",
+    "url": "https://huggingface.co/papers/2207.01405",
+    "title": "I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference",
+    "date": "2022-07-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2206.09557",
+    "url": "https://huggingface.co/papers/2206.09557",
+    "title": "LUT-GEMM: Quantized Matrix Multiplication based on LUTs for Efficient Inference in Large-Scale Generative Language Models",
+    "date": "2022-06-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2212.08254",
+    "url": "https://huggingface.co/papers/2212.08254",
+    "title": "RepQ-ViT: Scale Reparameterization for Post-Training Quantization of Vision Transformers",
+    "date": "2022-12-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2402.05628",
+    "url": "https://huggingface.co/papers/2402.05628",
+    "title": "RepQuant: Towards Accurate Post-Training Quantization of Large Transformer Models via Scale Reparameterization",
+    "date": "2024-02-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2607.17733",
+    "url": "https://huggingface.co/papers/2607.17733",
+    "title": "MXSens: Sensitivity-Aware Mixed-Precision Quantization for Efficient LLM Inference",
+    "date": "2026-07-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2410.08661",
+    "url": "https://huggingface.co/papers/2410.08661",
+    "title": "QEFT: Quantization for Efficient Fine-Tuning of LLMs",
+    "date": "2024-10-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2603.19172",
+    "url": "https://huggingface.co/papers/2603.19172",
+    "title": "DyMoE: Dynamic Expert Orchestration with Mixed-Precision Quantization for Efficient MoE Inference on Edge",
+    "date": "2026-03-19",
+    "source": "hf-search"
+  }
+]
